@@ -1,8 +1,8 @@
-# Hi there! 
 
-My name is Zach, aka ctrl squid, aka sneaky crow. I'm a passionate software developer with several decades of experience. I'm a lover of FOSS, video games, guitars, and community. 
+👋 Hey there, I'm Zachary Corvidae, but you might know me better as the sneaky crow 🐦. With over two decades of experience in the world of application development, I've been deeply immersed in the ever-evolving landscape of technology, constantly refining my skills and adapting to new challenges.
 
-You'll catch me contributing to most of my projects on [sneakycrow][sneakycrow-org], where I host public FOSS as well as closed source private projects. If you're interested in working with me, please email me! You can find all my details on [my website][website].
+Throughout my career, I've had the privilege of contributing to a diverse range of projects and companies, from industry giants to boutique agencies. I've even taken the leap into entrepreneurship, founding multiple successful ventures along the way.
 
-[sneakycrow-org]:https://github.com/sneakycrow
-[website]:https://sneakycrow.dev
+But it's not all about coding for me. I find inspiration and solace in a variety of hobbies and interests. Whether I'm crafting melodies, diving into immersive virtual worlds 🎮, exploring the depths of literature 📚, or simply soaking in the stunning beauty of the Pacific Northwest 🌲, I'm always on the lookout for new avenues of creativity and enrichment.
+
+If you're passionate about innovation and collaboration like I am, I'm always open to new opportunities and partnerships. Feel free to shoot me an email to start a conversation, or check out my resume to learn more about my professional journey. Let's connect and create something awesome together! 🚀
